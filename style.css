@@ -78,14 +78,14 @@ body {
   position: relative;
   text-align: center;
   top: 20px;
-  color: rgb(156, 134, 255);
+  color: rgb(16, 0, 87);
 }
 
 .card h3 {
   position: relative;
   text-align: center;
   top: 40px;
-  color: rgb(105, 62, 139);
+  color: rgb(35, 0, 61);
 }
 
 .card:hover {
